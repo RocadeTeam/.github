@@ -1,4 +1,4 @@
-![Banner](https://itsluiggiyahoo.github.io/assets/@RocadeTeam.png)
+![Banner](banner.png)
 
 # We are Rocade!
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://discord.gg/GssKMj9Q9j)
